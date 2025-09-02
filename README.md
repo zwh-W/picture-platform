@@ -257,7 +257,7 @@ docker-compose up -d
 
 - **作者**：张蘶豪
 - **GitHub**：[zwh-W](https://github.com/zwh-W)
-- **邮箱**：your.email@example.com
+- **邮箱**：1840816813@qq.com
 
 ## 📄 许可证
 
