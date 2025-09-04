@@ -218,19 +218,6 @@ mvn spring-boot:run
 
 访问 http://localhost:8123/api/doc.html 查看接口文档
 
-## 📱 功能演示
-
-### 图片上传与管理
-![图片上传](https://via.placeholder.com/600x300/4CAF50/white?text=图片上传功能演示)
-
-### 智能检索功能
-![智能检索](https://via.placeholder.com/600x300/2196F3/white?text=多维度检索演示)
-
-### 实时协作编辑
-![实时协作](https://via.placeholder.com/600x300/FF9800/white?text=实时协作编辑演示)
-
-### 数据分析看板
-![数据分析](https://via.placeholder.com/600x300/9C27B0/white?text=数据分析看板演示)
 
 ## 🧪 测试
 
